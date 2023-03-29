@@ -1,2 +1,3 @@
-# Capstone-Project
-Final Year Project made by the students of MITWPU.
+# Capstone-Project : Autonomous Three Wheel Holonomic Drive
+Capstone Project made by final year students at MITWPU.
+
