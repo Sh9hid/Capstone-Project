@@ -2,7 +2,10 @@
 (Paper in review)
 
 # Summary: 
-- Warehouse automation bot using computer vision and artificial intelligence algorithms. 
+- Warehouse automation bot using computer vision and artificial intelligence algorithms.
+- Three Wheel Holonomic Drive for Warehouse Automation review paper ‘23.
+- Cost management (below 90% than avg)
+- Time efficiency (228 ms record-low)
 
 # Roadmap: 
 - Add documentation.
